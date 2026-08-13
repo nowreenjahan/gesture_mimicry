@@ -1,5 +1,8 @@
 # Gesture Mimicry
 
+![Gesture Mimicry System](system.png)
+
+
 A flex-sensor-based gesture mimicry system developed as a course project,
 using a glove-mounted sensing circuit to control a servo-actuated robotic hand.
 
@@ -43,4 +46,4 @@ Flex Sensors → Signal Conditioning → Arduino → Servo Control → Robotic H
 - Servo motor control
 - Circuit design and troubleshooting
 
-![Gesture Mimicry System](system.png)
+
