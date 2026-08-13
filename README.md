@@ -42,3 +42,5 @@ Flex Sensors → Signal Conditioning → Arduino → Servo Control → Robotic H
 - Embedded control
 - Servo motor control
 - Circuit design and troubleshooting
+
+![Gesture Mimicry System](system.png)
