@@ -26,12 +26,11 @@ Flex Sensors → Signal Conditioning → Arduino → Servo Control → Robotic H
 - Integrated flex sensors to capture finger-bending movements.
 - Used signal-conditioning circuitry for sensor interfacing.
 - Implemented servo control based on the sensor readings.
-- Added capacitors to reduce servo power-related chattering and improve
-  the stability of the robotic hand movement.
+- Added capacitors to reduce servo chatter and improve actuation stability.
 
 ## Demonstration
 
-[Watch the demonstration video]((https://drive.google.com/file/d/13xTDukmmgixJmYaPmwgZ1uDa9TOgZNFt/view?usp=sharing))
+[Watch the demonstration video](https://drive.google.com/file/d/13xTDukmmgixJmYaPmwgZ1uDa9TOgZNFt/view?usp=sharing)
 
 ## Skills Demonstrated
 
