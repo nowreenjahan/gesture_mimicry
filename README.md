@@ -6,7 +6,8 @@ using a glove-mounted sensing circuit to control a servo-actuated robotic hand.
 ## Overview
 
 The system captures finger bending using flex sensors mounted on a glove
-and reproduces the corresponding finger movements using servo motors.
+and reproduces the corresponding finger movements on a 3D-printed robotic
+hand.
 
 ## System
 
@@ -17,16 +18,18 @@ Flex Sensors → Signal Conditioning → Arduino → Servo Control → Robotic H
 - Arduino Uno
 - Flex sensors
 - Servo motors
+- 3D-printed robotic hand
 - Glove-mounted sensing circuit
 - Battery power supply
 - Supporting electronic components
 
 ## Implementation
 
-- Integrated flex sensors to capture finger-bending movements.
-- Used signal-conditioning circuitry for sensor interfacing.
-- Implemented servo control based on the sensor readings.
-- Added capacitors to reduce servo chatter and improve actuation stability.
+- Integrated flex sensors on a glove to capture finger-bending movements.
+- Interfaced the sensors with an Arduino Uno for gesture acquisition.
+- Mapped sensor readings to servo positions for corresponding finger motion.
+- Implemented power and signal conditioning measures to reduce servo
+  chatter and improve movement stability.
 
 ## Demonstration
 
